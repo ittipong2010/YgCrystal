@@ -92,6 +92,11 @@
 
 ---
 
+
+**💠 YGCrystalทดลองใช้งานรับคีย์ได้ที่นี่**
+
+https://ygpcrystal.lolc.xyz/trial
+
 ## 💬 เข้าร่วมชุมชน YGCrystal
 
 📌 สำหรับการแจ้งปัญหา, ขอความช่วยเหลือ, หรือพูดคุยกับผู้ใช้งานอื่น ๆ  
@@ -108,7 +113,7 @@
 ## 👨‍💻 ผู้พัฒนา
 
 - 🧊 Dev: @ittipong2010  
-- 🌐 เว็บไซต์: [https://ygcrystal.lolc.xyz](https://ygcrystal.lolc.xyz)
+- 🌐 เว็บไซต์: [https://ygpcrystal.lolc.xyz](https://ygpcrystal.lolc.xyz)
 
 ---
 
